@@ -1,0 +1,65 @@
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Business.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Business.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\AutoMapper.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Base.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Business.Contracts.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Data.Contracts.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Data.DataAccess.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Utilities.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\System.ValueTuple.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\EntityFramework.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\SyncService.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Base.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Base.dll.config
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Business.Contracts.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Data.Contracts.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Data.Contracts.dll.config
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Data.DataAccess.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Data.DataAccess.dll.config
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Utilities.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Utilities.dll.config
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\AutoMapper.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\AutoMapper.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\System.ValueTuple.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\EntityFramework.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\bin\Debug\SyncService.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\obj\Debug\Layers.Business.csprojAssemblyReference.cache
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\obj\Debug\Layers.Business.csproj.CoreCompileInputs.cache
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\obj\Debug\Layers.Business.csproj.CopyComplete
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\obj\Debug\Layers.Business.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business\obj\Debug\Layers.Business.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Business.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Business.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\AutoMapper.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Base.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Business.Contracts.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Data.Contracts.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Data.DataAccess.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Utilities.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\System.ValueTuple.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\EntityFramework.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\SyncService.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Base.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Base.dll.config
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Business.Contracts.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Data.Contracts.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Data.Contracts.dll.config
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Data.DataAccess.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Data.DataAccess.dll.config
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Utilities.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Utilities.dll.config
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\AutoMapper.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\AutoMapper.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\System.ValueTuple.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\EntityFramework.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\SyncService.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\obj\Debug\Layers.Business.csprojAssemblyReference.cache
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\obj\Debug\Layers.Business.csproj.CoreCompileInputs.cache
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\obj\Debug\Layers.Business.csproj.CopyComplete
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\obj\Debug\Layers.Business.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\obj\Debug\Layers.Business.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Layers.Business.dll.config
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business\bin\Debug\Newtonsoft.Json.xml

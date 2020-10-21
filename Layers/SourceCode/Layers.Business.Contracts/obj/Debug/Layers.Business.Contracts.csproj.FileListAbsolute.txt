@@ -1,0 +1,22 @@
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business.Contracts\bin\Debug\Layers.Business.Contracts.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business.Contracts\bin\Debug\Layers.Business.Contracts.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business.Contracts\bin\Debug\Layers.Base.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business.Contracts\bin\Debug\Layers.Base.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business.Contracts\bin\Debug\Layers.Base.dll.config
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business.Contracts\obj\Debug\Layers.Business.Contracts.csprojAssemblyReference.cache
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business.Contracts\obj\Debug\Layers.Business.Contracts.csproj.CoreCompileInputs.cache
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business.Contracts\obj\Debug\Layers.Business.Contracts.csproj.CopyComplete
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business.Contracts\obj\Debug\Layers.Business.Contracts.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Business.Contracts\obj\Debug\Layers.Business.Contracts.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business.Contracts\bin\Debug\Layers.Business.Contracts.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business.Contracts\bin\Debug\Layers.Business.Contracts.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business.Contracts\bin\Debug\Layers.Base.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business.Contracts\bin\Debug\Layers.Base.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business.Contracts\bin\Debug\Layers.Base.dll.config
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business.Contracts\obj\Debug\Layers.Business.Contracts.csprojAssemblyReference.cache
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business.Contracts\obj\Debug\Layers.Business.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business.Contracts\obj\Debug\Layers.Business.Contracts.csproj.CopyComplete
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business.Contracts\obj\Debug\Layers.Business.Contracts.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business.Contracts\obj\Debug\Layers.Business.Contracts.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business.Contracts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Business.Contracts\bin\Debug\Newtonsoft.Json.xml

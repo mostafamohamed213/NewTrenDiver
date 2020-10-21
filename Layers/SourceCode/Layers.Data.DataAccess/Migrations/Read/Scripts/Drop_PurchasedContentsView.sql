@@ -1,0 +1,1 @@
+﻿Drop View [dbo].[VW_PurchasedContents]

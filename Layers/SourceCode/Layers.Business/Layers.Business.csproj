@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{776C86F4-CC85-4145-B0B1-AA355015BDE5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Layers.Business</RootNamespace>
+    <AssemblyName>Layers.Business</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=7.0.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.7.0.1\lib\net45\AutoMapper.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\netstandard1.0\System.ValueTuple.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\AutoMapperBussinessConfiguration.cs" />
+    <Compile Include="Base\Manager.cs" />
+    <Compile Include="Base\MapperBase.cs" />
+    <Compile Include="Managers\ChannelManager.cs" />
+    <Compile Include="Managers\ContentGoalManager.cs" />
+    <Compile Include="Managers\ContentManager.cs" />
+    <Compile Include="Managers\ContentRequirementsManager.cs" />
+    <Compile Include="Managers\ContentTargetViewersManager.cs" />
+    <Compile Include="Managers\LessonManager.cs" />
+    <Compile Include="Managers\LookupManger.cs" />
+    <Compile Include="Managers\PurchasedContentsManager.cs" />
+    <Compile Include="Managers\SectionManager.cs" />
+    <Compile Include="Managers\UserManager.cs" />
+    <Compile Include="Mappers\UserMapper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\layers.Base\Layers.Base.csproj">
+      <Project>{5EA72873-2627-4B72-A92F-810F48469B50}</Project>
+      <Name>Layers.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Layers.Business.Contracts\Layers.Business.Contracts.csproj">
+      <Project>{A7D6E979-0B94-424F-B3C5-AF0A7A0A8F33}</Project>
+      <Name>Layers.Business.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Layers.Data.Contracts\Layers.Data.Contracts.csproj">
+      <Project>{E7FBC49F-872B-496A-ADE4-E24D26D3B3EA}</Project>
+      <Name>Layers.Data.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Layers.Data.DataAccess\Layers.Data.DataAccess.csproj">
+      <Project>{DBA6D8BB-A4A1-4CF7-8D19-267438E9D64F}</Project>
+      <Name>Layers.Data.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Layers.Utilities\Layers.Utilities.csproj">
+      <Project>{D9550AEA-383F-4EAD-889E-23EA8BA4768A}</Project>
+      <Name>Layers.Utilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

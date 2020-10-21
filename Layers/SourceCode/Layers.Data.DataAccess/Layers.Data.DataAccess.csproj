@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DBA6D8BB-A4A1-4CF7-8D19-267438E9D64F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Layers.Data.DataAccess</RootNamespace>
+    <AssemblyName>Layers.Data.DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Context\ReadContext.cs" />
+    <Compile Include="Context\WriteContext.cs" />
+    <Compile Include="Migrations\202008142355546_updatecontenttype.cs" />
+    <Compile Include="Migrations\202008142355546_updatecontenttype.Designer.cs">
+      <DependentUpon>202008142355546_updatecontenttype.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202008151619350_createlookupview.cs" />
+    <Compile Include="Migrations\202008151619350_createlookupview.Designer.cs">
+      <DependentUpon>202008151619350_createlookupview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202008151735230_testupdate2.cs" />
+    <Compile Include="Migrations\202008151735230_testupdate2.Designer.cs">
+      <DependentUpon>202008151735230_testupdate2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202008151842173_testupdate3.cs" />
+    <Compile Include="Migrations\202008151842173_testupdate3.Designer.cs">
+      <DependentUpon>202008151842173_testupdate3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202008162211205_addlanguageview.cs" />
+    <Compile Include="Migrations\202008162211205_addlanguageview.Designer.cs">
+      <DependentUpon>202008162211205_addlanguageview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202008270010306_addlessonsView.cs" />
+    <Compile Include="Migrations\202008270010306_addlessonsView.Designer.cs">
+      <DependentUpon>202008270010306_addlessonsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202009062327121_updateContentTest.cs" />
+    <Compile Include="Migrations\202009062327121_updateContentTest.Designer.cs">
+      <DependentUpon>202009062327121_updateContentTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202009062342326_updateContentTest2.cs" />
+    <Compile Include="Migrations\202009062342326_updateContentTest2.Designer.cs">
+      <DependentUpon>202009062342326_updateContentTest2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202009142246225_AddPurshasedContents.cs" />
+    <Compile Include="Migrations\202009142246225_AddPurshasedContents.Designer.cs">
+      <DependentUpon>202009142246225_AddPurshasedContents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202009142341145_AddPurshasedContentsView.cs" />
+    <Compile Include="Migrations\202009142341145_AddPurshasedContentsView.Designer.cs">
+      <DependentUpon>202009142341145_AddPurshasedContentsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\202007301633536_testread.cs" />
+    <Compile Include="Migrations\Read\202007301633536_testread.Designer.cs">
+      <DependentUpon>202007301633536_testread.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\202007302330262_updatechannelnotmapped.cs" />
+    <Compile Include="Migrations\Read\202007302330262_updatechannelnotmapped.Designer.cs">
+      <DependentUpon>202007302330262_updatechannelnotmapped.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\202007302335160_updatechannelnotmapped2.cs" />
+    <Compile Include="Migrations\Read\202007302335160_updatechannelnotmapped2.Designer.cs">
+      <DependentUpon>202007302335160_updatechannelnotmapped2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\202008031935489_addcontentview.cs" />
+    <Compile Include="Migrations\Read\202008031935489_addcontentview.Designer.cs">
+      <DependentUpon>202008031935489_addcontentview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\202008041557097_addcontentgoalview.cs" />
+    <Compile Include="Migrations\Read\202008041557097_addcontentgoalview.Designer.cs">
+      <DependentUpon>202008041557097_addcontentgoalview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\202008041601216_addcontentRequirementsview.cs" />
+    <Compile Include="Migrations\Read\202008041601216_addcontentRequirementsview.Designer.cs">
+      <DependentUpon>202008041601216_addcontentRequirementsview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\202008041607393_addcontentTargetViewers.cs" />
+    <Compile Include="Migrations\Read\202008041607393_addcontentTargetViewers.Designer.cs">
+      <DependentUpon>202008041607393_addcontentTargetViewers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\202008050026018_addsectionview.cs" />
+    <Compile Include="Migrations\Read\202008050026018_addsectionview.Designer.cs">
+      <DependentUpon>202008050026018_addsectionview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\202008051733362_updatechannelsview.cs" />
+    <Compile Include="Migrations\Read\202008051733362_updatechannelsview.Designer.cs">
+      <DependentUpon>202008051733362_updatechannelsview.cs</DependentUpon>
+    </Compile>
+    <Content Include="Migrations\Read\Scripts\Drop_PurchasedContentsView.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_Lessons_Create.sql" />
+    <Compile Include="Migrations\Write\202007291928355_test.cs" />
+    <Compile Include="Migrations\Write\202007291928355_test.Designer.cs">
+      <DependentUpon>202007291928355_test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Write\202007272229449_addchanneltype.cs" />
+    <Compile Include="Migrations\Write\202007272229449_addchanneltype.Designer.cs">
+      <DependentUpon>202007272229449_addchanneltype.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\202007272245475_alteruserviewmostafa.cs" />
+    <Compile Include="Migrations\Read\202007272245475_alteruserviewmostafa.Designer.cs">
+      <DependentUpon>202007272245475_alteruserviewmostafa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\202007272255411_alteruserview2.cs" />
+    <Compile Include="Migrations\Read\202007272255411_alteruserview2.Designer.cs">
+      <DependentUpon>202007272255411_alteruserview2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\202007280042189_addChannelView.cs" />
+    <Compile Include="Migrations\Read\202007280042189_addChannelView.Designer.cs">
+      <DependentUpon>202007280042189_addChannelView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\202007292011404_AlterUserView.cs" />
+    <Compile Include="Migrations\Read\202007292011404_AlterUserView.Designer.cs">
+      <DependentUpon>202007292011404_AlterUserView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Write\202007261857442_addCategoryLookup.cs" />
+    <Compile Include="Migrations\Write\202007261857442_addCategoryLookup.Designer.cs">
+      <DependentUpon>202007261857442_addCategoryLookup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Write\202007171710479_MakeRelationShipBetweenChannelAndUser.cs" />
+    <Compile Include="Migrations\Write\202007171710479_MakeRelationShipBetweenChannelAndUser.Designer.cs">
+      <DependentUpon>202007171710479_MakeRelationShipBetweenChannelAndUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Write\202007152110530_GenerateFirstPhaseOfDataBaseTable.cs" />
+    <Compile Include="Migrations\Write\202007152110530_GenerateFirstPhaseOfDataBaseTable.Designer.cs">
+      <DependentUpon>202007152110530_GenerateFirstPhaseOfDataBaseTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\201808192319204_UpdateUserView.cs" />
+    <Compile Include="Migrations\Read\201808192319204_UpdateUserView.Designer.cs">
+      <DependentUpon>201808192319204_UpdateUserView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\201808192312274_UserView.cs" />
+    <Compile Include="Migrations\Read\201808192312274_UserView.Designer.cs">
+      <DependentUpon>201808192312274_UserView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\Customize\ReadHistoryContext.cs" />
+    <Compile Include="Migrations\Write\201808192137006_AddUser.cs" />
+    <Compile Include="Migrations\Write\201808192137006_AddUser.Designer.cs">
+      <DependentUpon>201808192137006_AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Shared\ScriptReader.cs" />
+    <Compile Include="Migrations\Write\201808182128212_LanguageTables.cs" />
+    <Compile Include="Migrations\Write\201808182128212_LanguageTables.Designer.cs">
+      <DependentUpon>201808182128212_LanguageTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Read\ReadConfiguration.cs" />
+    <Compile Include="Migrations\Write\WriteConfiguration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\DynamicRepository.cs" />
+    <Compile Include="Repository\ReadRepository.cs" />
+    <Compile Include="Repository\ReadUnitOfWork.cs" />
+    <Compile Include="Repository\TypeMetaData.cs" />
+    <Compile Include="Repository\UnitOfWork.cs" />
+    <Compile Include="Repository\WriteReposatory.cs" />
+    <Compile Include="Repository\WriteUnitOfWork.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\layers.Base\Layers.Base.csproj">
+      <Project>{5ea72873-2627-4b72-a92f-810f48469b50}</Project>
+      <Name>Layers.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Layers.Data.Contracts\Layers.Data.Contracts.csproj">
+      <Project>{E7FBC49F-872B-496A-ADE4-E24D26D3B3EA}</Project>
+      <Name>Layers.Data.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Layers.Utilities\Layers.Utilities.csproj">
+      <Project>{d9550aea-383f-4ead-889e-23ea8ba4768a}</Project>
+      <Name>Layers.Utilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SyncService\SyncService.csproj">
+      <Project>{40cf678a-742f-4c94-82ff-273c1e867d78}</Project>
+      <Name>SyncService</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202008142355546_updatecontenttype.resx">
+      <DependentUpon>202008142355546_updatecontenttype.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202008151619350_createlookupview.resx">
+      <DependentUpon>202008151619350_createlookupview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202008151735230_testupdate2.resx">
+      <DependentUpon>202008151735230_testupdate2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202008151842173_testupdate3.resx">
+      <DependentUpon>202008151842173_testupdate3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202008162211205_addlanguageview.resx">
+      <DependentUpon>202008162211205_addlanguageview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202008270010306_addlessonsView.resx">
+      <DependentUpon>202008270010306_addlessonsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202009062327121_updateContentTest.resx">
+      <DependentUpon>202009062327121_updateContentTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202009062342326_updateContentTest2.resx">
+      <DependentUpon>202009062342326_updateContentTest2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202009142246225_AddPurshasedContents.resx">
+      <DependentUpon>202009142246225_AddPurshasedContents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202009142341145_AddPurshasedContentsView.resx">
+      <DependentUpon>202009142341145_AddPurshasedContentsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Read\202007301633536_testread.resx">
+      <DependentUpon>202007301633536_testread.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Read\202007302330262_updatechannelnotmapped.resx">
+      <DependentUpon>202007302330262_updatechannelnotmapped.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Read\202007302335160_updatechannelnotmapped2.resx">
+      <DependentUpon>202007302335160_updatechannelnotmapped2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Read\202008031935489_addcontentview.resx">
+      <DependentUpon>202008031935489_addcontentview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Read\202008041557097_addcontentgoalview.resx">
+      <DependentUpon>202008041557097_addcontentgoalview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Read\202008041601216_addcontentRequirementsview.resx">
+      <DependentUpon>202008041601216_addcontentRequirementsview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Read\202008041607393_addcontentTargetViewers.resx">
+      <DependentUpon>202008041607393_addcontentTargetViewers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Read\202008050026018_addsectionview.resx">
+      <DependentUpon>202008050026018_addsectionview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Read\202008051733362_updatechannelsview.resx">
+      <DependentUpon>202008051733362_updatechannelsview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Write\202007291928355_test.resx">
+      <DependentUpon>202007291928355_test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Write\202007272229449_addchanneltype.resx">
+      <DependentUpon>202007272229449_addchanneltype.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Read\202007272245475_alteruserviewmostafa.resx">
+      <DependentUpon>202007272245475_alteruserviewmostafa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Read\202007272255411_alteruserview2.resx">
+      <DependentUpon>202007272255411_alteruserview2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Read\202007280042189_addChannelView.resx">
+      <DependentUpon>202007280042189_addChannelView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Read\202007292011404_AlterUserView.resx">
+      <DependentUpon>202007292011404_AlterUserView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Write\202007261857442_addCategoryLookup.resx">
+      <DependentUpon>202007261857442_addCategoryLookup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Write\202007171710479_MakeRelationShipBetweenChannelAndUser.resx">
+      <DependentUpon>202007171710479_MakeRelationShipBetweenChannelAndUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Write\202007152110530_GenerateFirstPhaseOfDataBaseTable.resx">
+      <DependentUpon>202007152110530_GenerateFirstPhaseOfDataBaseTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Read\201808192319204_UpdateUserView.resx">
+      <DependentUpon>201808192319204_UpdateUserView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Read\201808192312274_UserView.resx">
+      <DependentUpon>201808192312274_UserView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Write\201808192137006_AddUser.resx">
+      <DependentUpon>201808192137006_AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Write\201808182128212_LanguageTables.resx">
+      <DependentUpon>201808182128212_LanguageTables.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Migrations\Write\Scripts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Migrations\Read\Scripts\VWContent_Create.sql" />
+    <Content Include="Migrations\Read\Scripts\VWContent_Drop.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_Channel_alter.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_Channel_Create.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_Channel_Drop.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_CreateContentGoal.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_CreateContentRequirements.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_CreateContentTargetviewers.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_Create_Categorylookup.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_DropContentGoal.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_DropContentRequirements.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_DropContentTargetViewers.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_Drop_Categorylookup.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_LanguageLookup_Create.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_LanguageLookup_DROP.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_Lessons_Drop.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_PurshaseContent_Create.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_Section_Create.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_Section_Drop.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_User_Alter.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_USER_ALTERMostafa.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_User_Create.sql" />
+    <Content Include="Migrations\Read\Scripts\VW_User_Drop.sql" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

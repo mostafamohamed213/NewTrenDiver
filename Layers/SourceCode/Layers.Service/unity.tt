@@ -1,0 +1,75 @@
+﻿	<#@ template language="C#" debug="false" hostspecific="true" #>
+	<#@ include file="$(SolutionDir)\Layers.Utilities\t4\config.t4" #>
+	<#@ output extension=".config" #>
+	<# 
+	WriteHeader();
+	string PerRequest = "perRequest";
+	string Singleton = "singleton";
+
+	Section("Data Access");
+
+		From("Data.Contracts.Contracts","Data.Contracts")
+		.To("Data.DataAccess.Repository","Data.DataAccess")
+		.WithType(PerRequest)
+		         .Map("IReadUnitOfWork")
+		         .Map("IWriteUnitOfWork")
+		         .Map("IReadRepository`2")
+		         .Map("IWriteRepository`2")
+		         .Map("IUnitOfWork")
+		         .Map("IDynamicRepository");
+
+	EndSection();
+
+	 // -------------------------------------------------------------------
+
+	Section("Business");
+		
+		From("Business.Contracts.Base","Business.Contracts")
+		.To("Business.Managers","Business")
+		.WithType(PerRequest)
+				.Map("IUserManager")
+				.Map("IChannelManager")
+				.Map("IContentManager")
+				.Map("IContentGoalManager")
+				.Map("IContentRequirementsManager")
+				.Map("IContentTargetViewersManager")
+				.Map("ISectionManager")
+				.Map("ILessonManager")
+				.Map("IPurchasedContentsManager");
+	EndSection();
+
+
+
+	 #>
+	 </container>
+	 </containers>
+	 </unity>
+
+
+	 <#+ 
+ 
+
+	 void WriteHeader()
+	 {
+		 #>
+		  <unity xmlns="http://schemas.microsoft.com/practices/2010/unity">
+
+		  <!-- Alias --> 
+		  <alias alias="perRequest" type="Unity.AspNet.Mvc.PerRequestLifetimeManager,Unity.Mvc" />
+
+
+		  <!-- Assemblies -->
+		  <assembly name="Layers.Base" />
+		  <assembly name="Layers.Business" />
+		  <assembly name="Layers.Business.Contracts" />
+		  <assembly name="Layers.Data.Contracts" />
+		  <assembly name="Layers.Data.DataAccess" />
+
+		  <containers>
+
+		  <!-- Unity Config -->
+		<container name="unityConfig">
+		<#+
+	 }
+
+	 #>

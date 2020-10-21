@@ -1,0 +1,22 @@
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\SyncService\bin\Debug\SyncService.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\SyncService\bin\Debug\SyncService.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\SyncService\bin\Debug\Layers.Base.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\SyncService\bin\Debug\Layers.Base.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\SyncService\bin\Debug\Layers.Base.dll.config
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\SyncService\obj\Debug\SyncService.csprojAssemblyReference.cache
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\SyncService\obj\Debug\SyncService.csproj.CoreCompileInputs.cache
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\SyncService\obj\Debug\SyncService.csproj.CopyComplete
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\SyncService\obj\Debug\SyncService.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\SyncService\obj\Debug\SyncService.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\SyncService\bin\Debug\SyncService.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\SyncService\bin\Debug\SyncService.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\SyncService\bin\Debug\Layers.Base.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\SyncService\bin\Debug\Layers.Base.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\SyncService\bin\Debug\Layers.Base.dll.config
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\SyncService\obj\Debug\SyncService.csprojAssemblyReference.cache
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\SyncService\obj\Debug\SyncService.csproj.CoreCompileInputs.cache
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\SyncService\obj\Debug\SyncService.csproj.CopyComplete
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\SyncService\obj\Debug\SyncService.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\SyncService\obj\Debug\SyncService.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\SyncService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\SyncService\bin\Debug\Newtonsoft.Json.xml

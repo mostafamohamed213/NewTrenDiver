@@ -1,0 +1,133 @@
+﻿<#+ 
+	
+	class Mapper
+	{
+		internal Tuple<string, string> interfaceDll;
+		internal Tuple<string, string> implementationDll;
+		internal string type;
+		internal object t4Object;
+
+		public Mapper Map(string classWithInterfaceLikeConvention, bool condition = true, bool useDefaultConstructor = false)
+		{
+			return Map(classWithInterfaceLikeConvention, classWithInterfaceLikeConvention.Substring(1), type, condition, useDefaultConstructor);
+		}
+
+		public Mapper Map(string interfaceName, string implementationName, bool condition = true, bool useDefaultConstructor = false)
+		{
+			return Map(interfaceName, implementationName, type, condition, useDefaultConstructor);
+		}
+
+		public Mapper Map(string interfaceName, string implementationName, string type, bool condition, bool useDefaultConstructor = false)
+		{
+			if(condition)
+			{
+				t4Object.GetType().GetMethod("Map").Invoke(t4Object, new object [] {interfaceName, implementationName, interfaceDll, implementationDll, type, useDefaultConstructor});
+			}
+
+			return this;
+		}
+
+	}
+
+	class InfoCollector
+	{
+		internal Tuple<string, string> interfaceDll;
+		internal Tuple<string, string> implementationDll;
+		internal string type;
+		internal object t4Object;
+
+		public InfoCollector From(Tuple<string, string> interfaceDll)
+		{
+			this.interfaceDll = interfaceDll;
+			return this; 
+		}
+
+		public InfoCollector To(string className, string classDll)
+		{
+			this.implementationDll = Tuple.Create(className, classDll);
+			return this; 
+		}
+
+		public InfoCollector To(string className)
+		{
+			return To(className,className);
+		}
+
+		public Mapper WithType(string type)
+		{
+		   this.type = type;
+		   return new Mapper
+		   {
+				interfaceDll = interfaceDll,
+				implementationDll = implementationDll,
+				type = type,
+				t4Object = t4Object
+		   };
+		}
+
+
+
+	}
+
+	public void Map(string interfaceName, string implementationName, Tuple<string,string> interfaceLocation, Tuple<string,string> implementationLocation, string type ="perRequest", bool useDefaultConstructor = false)
+	{
+		WriteLine("");
+		
+		PushIndent("       ");
+		
+		WriteLine(string.Format("<register type=\"Layers.{0}.{1}, Layers.{2}\" mapTo=\"Layers.{3}.{4}, Layers.{5}\">" 
+		,interfaceLocation.Item1, interfaceName, interfaceLocation.Item2, implementationLocation.Item1, implementationName, implementationLocation.Item2));
+
+		WriteLine(string.Format(" <lifetime type=\"{0}\" />" , type));
+		
+		if(useDefaultConstructor)
+		{
+			WriteLine("<constructor />");
+		}
+
+		WriteLine("</register>");
+
+		PopIndent();
+
+	}
+
+
+
+
+
+
+
+
+	static int barLength = 80;
+	void Section(string name)
+	{
+	   WriteLine("\n\n");
+	   PushIndent("       ");
+	   var length = barLength - name.Length - 2 ;
+	   WriteLine("<!--"+ new string('=', length/2) + " " + name.ToUpper() + " " + new string('=', ( 1+ length ) / 2)  +"-->");
+	   PopIndent();
+	}
+
+	void EndSection()
+	{
+	   PushIndent("       ");
+	   WriteLine("<!--"+ new string('_', barLength) +"-->");
+	   WriteLine("");
+	   PopIndent();
+	}
+
+	InfoCollector From(string interfaceName, string interfaceDll)
+	{
+		var info = new InfoCollector();
+		info.t4Object = this;
+		return info.From(Tuple.Create(interfaceName, interfaceDll));
+	}
+
+	InfoCollector From(string interfaceName)
+	{
+		return From(interfaceName,interfaceName);
+	}
+
+
+
+ #>

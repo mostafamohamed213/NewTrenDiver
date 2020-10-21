@@ -1,0 +1,74 @@
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Layers.Utilities.IOC.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Layers.Utilities.IOC.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\CommonServiceLocator.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\System.Net.Http.Formatting.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\System.Web.Http.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\System.Web.Http.WebHost.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Abstractions.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Configuration.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Container.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Interception.Configuration.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Interception.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.RegistrationByConvention.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.ServiceLocation.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\WebActivatorEx.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\CommonServiceLocator.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\System.Net.Http.Formatting.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\System.Web.Http.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\System.Web.Http.WebHost.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Abstractions.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Configuration.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Container.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Interception.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Interception.Configuration.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.RegistrationByConvention.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.ServiceLocation.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\obj\Debug\Layers.Utilities.IOC.csprojAssemblyReference.cache
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\obj\Debug\Layers.Utilities.IOC.csproj.CoreCompileInputs.cache
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\obj\Debug\Layers.Utilities.IOC.csproj.CopyComplete
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\obj\Debug\Layers.Utilities.IOC.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Utilities.IOC\obj\Debug\Layers.Utilities.IOC.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Layers.Utilities.IOC.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Layers.Utilities.IOC.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\CommonServiceLocator.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\System.Web.Http.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Abstractions.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Configuration.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Container.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Interception.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\WebActivatorEx.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\CommonServiceLocator.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\System.Web.Http.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Abstractions.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Configuration.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Container.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Interception.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\obj\Debug\Layers.Utilities.IOC.csprojAssemblyReference.cache
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\obj\Debug\Layers.Utilities.IOC.csproj.CoreCompileInputs.cache
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\obj\Debug\Layers.Utilities.IOC.csproj.CopyComplete
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\obj\Debug\Layers.Utilities.IOC.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Utilities.IOC\obj\Debug\Layers.Utilities.IOC.pdb

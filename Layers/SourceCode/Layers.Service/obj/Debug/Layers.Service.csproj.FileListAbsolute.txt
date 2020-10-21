@@ -1,0 +1,289 @@
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\ApplicationInsights.config
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\roslyn\csc.exe
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\roslyn\vbc.exe
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\roslyn\VBCSCompiler.exe
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Service.dll.config
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Service.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Service.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Antlr3.Runtime.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\AutoMapper.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\CommonServiceLocator.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\EntityFramework.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\EntityFramework.SqlServer.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Base.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Business.Contracts.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Business.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Data.Contracts.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Data.DataAccess.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Utilities.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Utilities.IOC.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.Web.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Newtonsoft.Json.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Owin.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Net.Http.Formatting.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.ValueTuple.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Cors.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Helpers.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Http.Cors.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Http.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Http.Owin.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Http.WebHost.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Mvc.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Optimization.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Razor.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.WebPages.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.WebPages.Razor.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Unity.Abstractions.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Unity.Configuration.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Unity.Container.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Unity.Interception.Configuration.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Unity.Interception.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Unity.Mvc.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Unity.RegistrationByConvention.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Unity.ServiceLocation.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\WebActivatorEx.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\WebGrease.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\SyncService.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Business.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Data.Contracts.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Data.Contracts.dll.config
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Base.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Base.dll.config
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Business.Contracts.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Data.DataAccess.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Data.DataAccess.dll.config
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Utilities.IOC.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Utilities.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Layers.Utilities.dll.config
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\AutoMapper.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\AutoMapper.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\CommonServiceLocator.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.Web.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Net.Http.Formatting.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.ValueTuple.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Helpers.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Http.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Http.Cors.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Mvc.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Razor.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.WebPages.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.WebPages.Razor.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Newtonsoft.Json.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Http.WebHost.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Optimization.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Unity.Configuration.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Unity.Interception.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Unity.Interception.Configuration.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Unity.Mvc.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Unity.RegistrationByConvention.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Unity.ServiceLocation.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Antlr3.Runtime.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\EntityFramework.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\EntityFramework.SqlServer.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\System.Web.Http.Owin.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\SyncService.pdb
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.csprojAssemblyReference.cache
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.Migrations.InitialCreate.resources
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.Migrations.tablesModification.resources
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.csproj.GenerateResource.cache
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.csproj.CoreCompileInputs.cache
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.csproj.CopyComplete
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.dll
+E:\Projects\TrendiverBeThere\BeThere Solution\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\ApplicationInsights.config
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\roslyn\csc.exe
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\roslyn\vbc.exe
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Service.dll.config
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Service.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Service.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Antlr3.Runtime.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\AutoMapper.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\CommonServiceLocator.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\EntityFramework.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\EntityFramework.SqlServer.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Base.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Business.Contracts.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Business.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Data.Contracts.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Data.DataAccess.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Utilities.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Utilities.IOC.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.Web.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Newtonsoft.Json.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Owin.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Net.Http.Formatting.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.ValueTuple.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Cors.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Helpers.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Http.Cors.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Http.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Http.Owin.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Http.WebHost.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Mvc.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Optimization.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Razor.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.WebPages.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Unity.Abstractions.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Unity.Configuration.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Unity.Container.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Unity.Interception.Configuration.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Unity.Interception.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Unity.Mvc.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Unity.RegistrationByConvention.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Unity.ServiceLocation.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\WebActivatorEx.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\WebGrease.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\SyncService.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Business.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Data.Contracts.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Data.Contracts.dll.config
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Base.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Base.dll.config
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Business.Contracts.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Data.DataAccess.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Data.DataAccess.dll.config
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Utilities.IOC.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Utilities.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Utilities.dll.config
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\AutoMapper.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\AutoMapper.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\CommonServiceLocator.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.Web.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Net.Http.Formatting.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.ValueTuple.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Helpers.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Http.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Http.Cors.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Mvc.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Razor.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.WebPages.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Newtonsoft.Json.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Http.WebHost.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Optimization.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Unity.Configuration.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Unity.Interception.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Unity.Interception.Configuration.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Unity.Mvc.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Unity.RegistrationByConvention.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Unity.ServiceLocation.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Antlr3.Runtime.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\EntityFramework.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\EntityFramework.SqlServer.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\System.Web.Http.Owin.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\SyncService.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.csprojAssemblyReference.cache
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.Migrations.InitialCreate.resources
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.Migrations.tablesModification.resources
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.csproj.GenerateResource.cache
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.csproj.CoreCompileInputs.cache
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.csproj.CopyComplete
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.dll
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\obj\Debug\Layers.Service.pdb
+C:\Users\mostafa\Documents\GitHub\Trendiver\Layers\SourceCode\Layers.Service\bin\Layers.Business.dll.config
