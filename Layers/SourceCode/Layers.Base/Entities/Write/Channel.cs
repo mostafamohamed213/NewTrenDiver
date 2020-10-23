@@ -13,6 +13,7 @@ using System.Web.Mvc;
 
 namespace Layers.Base.Entities.Write
 {
+    // channel table and every channel can have list of contents
     [Table("Channel")]
     public class Channel : ManagedEntity<int,int> , IWriteEntity
     {

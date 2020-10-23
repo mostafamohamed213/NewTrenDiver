@@ -43,7 +43,7 @@ namespace Layers.Service.Controllers
             }
         }
 
-
+        //Add Content 
         [Route("Add")]
         public override DescriptiveResponse<int> Post(Content content)
         {
@@ -54,6 +54,7 @@ namespace Layers.Service.Controllers
             return Manager.Save(content);
         }
 
+        //Edit Content
         [Route("Edit")]
         public DescriptiveResponse<int> Put(Content content)
         {
@@ -63,14 +64,14 @@ namespace Layers.Service.Controllers
             }
             return Manager.Save(content);
         }
-        // show content for user - end user flow
+        // show content for user so [AllowAnonymous]  - end user flow
         [AllowAnonymous]
         [Route("GetContentForUser/{id}")]
         public override DescriptiveResponse<Read.Content> Get(int id)
         {
             return Manager.GetItem(id);
         }
-
+        //Get all Contents for this Channel  for user(Content provider)
         [Route("GetContentperChannel/{channelid}")]
         public DescriptiveResponse<IEnumerable<Read.Content>> GetChannelperUser(int channelid)
         {

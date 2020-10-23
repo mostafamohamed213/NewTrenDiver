@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 
 namespace Layers.Base.Entities.Write
 {
+    //content table in channel -- content has a Content goal ,ContentRequirements,ContentTargetViewers,Sections,Quizzes,(
+    // Content can be one of this types (RecordedVideos,WebinarSessions,LiveStreamSessions)
     public class Content : ManagedEntity<int,int> , IWriteEntity
     {
 

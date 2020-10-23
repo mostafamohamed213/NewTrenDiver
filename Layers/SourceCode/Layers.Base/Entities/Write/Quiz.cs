@@ -9,6 +9,7 @@ namespace Layers.Base.Entities.Write
 {
     public class Quiz : ManagedEntity<int, int>, IWriteEntity
     {
+        // Quiz For Content
         public int ContentId { get; set; }
         public virtual Content Content { get; set; }
 

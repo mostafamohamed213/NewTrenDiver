@@ -35,6 +35,7 @@ namespace Layers.Service.Controllers
                 return _PurchasedContentsManager;
             }
         }
+        // Get Purchased Contents for user (normal user who buy this course)
 
         [AllowAnonymous]
         [Route("GetPurchasedContents/{userid}")]

@@ -28,7 +28,8 @@ namespace Layers.Business.Managers
 
 
         #endregion
-
+        // GeT top 20 Content for each Category and if user click specific type return top 20 for this type
+        //types (livestream,Recorded,Webinar) or all
         public IQueryable GetTopContent(string ContentType)
         {
             contenttype type;
@@ -77,6 +78,8 @@ namespace Layers.Business.Managers
             return Query;
 
         }
+
+        //get all top 20 content for each Types
         public IQueryable GetAlltopContent()
         {
             var Query = db.CategoryLookup.Select(c => new
@@ -131,6 +134,8 @@ namespace Layers.Business.Managers
 
         //    return data;
         //}
+
+        // Get Contents per Category (front end will send page number and how many contnt will be in this page)
         public IQueryable GetContentsPerCategory(int categoryid, int pagenumber, int sizeofcontents)
         {
             var Query = db.Content.Join(db.Channel.Where(pp => pp.CategoryId == categoryid), e => e.ChannelId, p => p.Id,

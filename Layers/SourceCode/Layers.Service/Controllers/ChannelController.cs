@@ -44,6 +44,7 @@ namespace Layers.Service.Controllers
                 return _ChannelManager;
             }
         }
+        // Add Channel
         [Route("Add")]
       
         public override DescriptiveResponse<int> Post(Write.Channel channel)
@@ -62,7 +63,7 @@ namespace Layers.Service.Controllers
             }
             return Manager.Save(channel);
         }
-
+        // Edit Channel
         [Route("Edit")]
         public  DescriptiveResponse<int> Put(Write.Channel channel)
         {
@@ -81,6 +82,7 @@ namespace Layers.Service.Controllers
             return Manager.Save(channel);
         }
 
+        //Get All Channel For this Content Provider
         [Route("GetChannelperUser/{userid}")]
         public DescriptiveResponse<IEnumerable<Read.Channel>> GetChannelperUser(int userid)
         {
@@ -92,6 +94,9 @@ namespace Layers.Service.Controllers
             return DescriptiveResponse<IEnumerable<Read.Channel>>.Success(channelsperuser);
         }
 
+
+        // GeT top 20 Content for each Category and if user click specific type return top 20 for this type
+        //types (livestream,Recorded,Webinar) or all
         [AllowAnonymous]
         [Route("GetTopContent/{ContentType}")]
 
@@ -110,6 +115,8 @@ namespace Layers.Service.Controllers
         //    return DescriptiveResponse<IEnumerable<TopContentDTO>>.Success(content);
         //}
 
+        //get all top 20 content for each Types
+
         [AllowAnonymous]
         [Route("GetContentsPerCategory/{CategoryID}")]
 
@@ -119,6 +126,7 @@ namespace Layers.Service.Controllers
             return DescriptiveResponse<IQueryable>.Success(content);
         }
 
+        //Check if the channel Name is exist or not -- if not exist you can create channel with this name 
         public bool CheckName(string Name)
         {
             if ((_readRepository.GetSingleOrDefault(s => s.Name == Name)) != null)
@@ -130,7 +138,7 @@ namespace Layers.Service.Controllers
                 return false;
             }
         }
-
+        //Check if the channel Name is exist or not -- if not exist you can edit channel with this name 
         public bool CheckNameforedit(string Name,int id)
         {
             if ((_readRepository.GetSingleOrDefault(s => s.Name == Name && s.Id!=id )) != null)
@@ -142,7 +150,8 @@ namespace Layers.Service.Controllers
                 return false;
             }
         }
-
+        //add channel and make a validation per type of channel(one instructor channel per content provider in the one category)
+        // every instructor (content provider) has only  one Category per Type
         public bool CheckChannelCategoryPerInstructor(ChannelType channelType,int categoryid)
         {
             if (channelType == ChannelType.Instructor)
@@ -161,8 +170,8 @@ namespace Layers.Service.Controllers
                 return false;
             }
         }
-
-
+        //edit channel and make a validation per type of channel(one instructor channel per content provider in the one category)
+        // every instructor (content provider) has only  one Category per Type
         public bool CheckChannelCategoryPerInstructorforedit(ChannelType channelType, int categoryid,int  id)
         {
             if (channelType == ChannelType.Instructor)

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Layers.Base.Entities.Write
 {
+    // FaQ of Recorded Video
     public class FAQ : EntityBase<int> , IWriteEntity
     {
         public string Question { get; set; }

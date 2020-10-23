@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Layers.Base.Entities.Write
 {
+    // Lessons in Sections
     public class Leason : EntityBase<int> , IWriteEntity
     {
         public string Title { get; set; }

@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 
 namespace Layers.Base.Entities.Write
 {
+    //sections of contents (Content should be Recorde video)
+    //every section has a list of lesson
     public class Section : ManagedEntity<int,int> , IWriteEntity
     {
         public string Title { get; set; }

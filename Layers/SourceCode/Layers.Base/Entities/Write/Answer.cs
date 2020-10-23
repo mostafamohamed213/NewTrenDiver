@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Layers.Base.Entities.Write
 {
+    // Answer of Questions
     public class Answer : EntityBase<int>, IWriteEntity
     {
         public string AnswerText { get; set; }
